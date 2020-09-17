@@ -1,0 +1,2 @@
+C:\Users\kevinmorales\AppData\Local\Temporary Projects\SRC_Phonelist_Editor\bin\Debug\SRC_Phonelist_Editor.exe.config
+C:\Users\kevinmorales\Documents\Visual Studio 2013\Projects\SRC_Phonelist_Editor\SRC_Phonelist_Editor\bin\Debug\SRC_Phonelist_Editor.exe.config
